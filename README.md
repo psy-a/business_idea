@@ -11,7 +11,7 @@ This is just a website listing services offered by PSYNET Technologies which is 
 ## Known Bugs
 There are no known bugs at the moment.
 ## Technologies Used
-HTML, CSS.
+HTML.
 ## Support and contact details
 You can reach me on psyfi488@gmail.com
 ### License
